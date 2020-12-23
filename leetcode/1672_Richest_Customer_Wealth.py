@@ -1,1 +1,5 @@
-[[1,5],[7,3],[3,5]]
+def maximumWealth(accounts):
+    return max([sum(account) for account in accounts])
+
+
+print(maximumWealth([[0, 0]]))
