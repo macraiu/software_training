@@ -5,7 +5,6 @@
 # VIZDOOM
 
 import gym
-import RL
 
 #env = gym.make('CarRacing-v0')
 #env = gym.make('CartPole-v0')
