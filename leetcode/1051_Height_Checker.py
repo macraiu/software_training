@@ -42,7 +42,8 @@ procedure bubbleSort(A : list of sortable items)
 end procedure
  """
 
-def heightChecker(heights):
+# BUBBLE SORT - NOT GOOD FOR THIS TASK.
+def heightChecker2(heights):
     print(heights)
     n = len(heights)
     swaps = 0
@@ -59,9 +60,14 @@ def heightChecker(heights):
     print(heights)
     print(swaps)
 
+def heightChecker(heights):
+    sorted_heights = sorted(heights)
+    counter = 0
+    for n in range(len(heights)):
+        if sorted_heights[n] != heights[n]:
+            counter += 1
+
+    return counter
 
 
-a = [1,4,5]
-b = [1,10,2]
-print([x for x in zip(a,b)])
-print(heightChecker([1,2,3,4,5]))
+print(heightChecker([5,1,2,3,4]))
