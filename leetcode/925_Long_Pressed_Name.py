@@ -27,25 +27,21 @@ Explanation: It's not necessary to long press any character.
  """
 
 def isLongPressedName(name, typed):
-    if len(typed) < len(name):
-        return False
+
     p1 = 0
-    p2 = 0
-    ok = False
-    while p1 < len(name) and p2 < len(typed):
-        if name[p1] == typed[p2]:
-            p2 += 1
-            ok = True
-        else:
+    for p2 in range(len(typed)):
+        if p1 < len(name) and name[p1] == typed[p2]:
             p1 += 1
-            if ok == False:
-                return False
-            ok = False
-    
-    return True
+        elif p1 == 0 or name[p1-1] != typed[p2]:
+            return False
 
+    return p1 == len(name)  
+
+print(isLongPressedName('leelee', 'lleeelee'))
 print(isLongPressedName('saeed', 'ssaaedd'))
-print(isLongPressedName('alex', 'aaleex'))
-print(isLongPressedName('laiden', 'laide'))
+print(isLongPressedName('alex', 'aleex'))
+print(isLongPressedName('laiden', 'laiden'))
+print(isLongPressedName("zlexya", "aazlllllllllllllleexxxxxxxxxxxxxxxya"))
 
-                
+
+  
