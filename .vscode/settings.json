@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/usr/local/bin/python3"
+    "python.pythonPath": "/home/abramovich/anaconda3/envs/RL/bin/python",
+    "jupyter.jupyterServerType": "remote"
 }
