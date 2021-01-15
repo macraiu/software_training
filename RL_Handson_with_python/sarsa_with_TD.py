@@ -2,6 +2,13 @@ import gym
 import numpy as np
 import time
 
+""" 
+DRAWN FROM:
+
+https://towardsdatascience.com/reinforcement-learning-temporal-difference-sarsa-q-learning-expected-sarsa-on-python-9fecfda7467e
+
+"""
+
 """
 SARSA on policy learning python implementation.
 This is a python implementation of the SARSA algorithm in the Sutton and Barto's book on
