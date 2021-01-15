@@ -1,0 +1,16 @@
+/home/abramovich/c#/TCPtest/bin/Debug/net5.0/TCPtest
+/home/abramovich/c#/TCPtest/bin/Debug/net5.0/TCPtest.deps.json
+/home/abramovich/c#/TCPtest/bin/Debug/net5.0/TCPtest.runtimeconfig.json
+/home/abramovich/c#/TCPtest/bin/Debug/net5.0/TCPtest.runtimeconfig.dev.json
+/home/abramovich/c#/TCPtest/bin/Debug/net5.0/TCPtest.dll
+/home/abramovich/c#/TCPtest/bin/Debug/net5.0/ref/TCPtest.dll
+/home/abramovich/c#/TCPtest/bin/Debug/net5.0/TCPtest.pdb
+/home/abramovich/c#/TCPtest/obj/Debug/net5.0/TCPtest.csprojAssemblyReference.cache
+/home/abramovich/c#/TCPtest/obj/Debug/net5.0/TCPtest.GeneratedMSBuildEditorConfig.editorconfig
+/home/abramovich/c#/TCPtest/obj/Debug/net5.0/TCPtest.AssemblyInfoInputs.cache
+/home/abramovich/c#/TCPtest/obj/Debug/net5.0/TCPtest.AssemblyInfo.cs
+/home/abramovich/c#/TCPtest/obj/Debug/net5.0/TCPtest.csproj.CoreCompileInputs.cache
+/home/abramovich/c#/TCPtest/obj/Debug/net5.0/TCPtest.dll
+/home/abramovich/c#/TCPtest/obj/Debug/net5.0/ref/TCPtest.dll
+/home/abramovich/c#/TCPtest/obj/Debug/net5.0/TCPtest.pdb
+/home/abramovich/c#/TCPtest/obj/Debug/net5.0/TCPtest.genruntimeconfig.cache

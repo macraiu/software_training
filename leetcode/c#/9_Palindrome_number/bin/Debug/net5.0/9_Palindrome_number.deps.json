@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "9_Palindrome_number/1.0.0": {
+        "runtime": {
+          "9_Palindrome_number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9_Palindrome_number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

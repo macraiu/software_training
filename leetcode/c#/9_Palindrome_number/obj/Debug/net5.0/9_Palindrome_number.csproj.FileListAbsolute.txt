@@ -1,0 +1,16 @@
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/obj/Debug/net5.0/9_Palindrome_number.csprojAssemblyReference.cache
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/obj/Debug/net5.0/9_Palindrome_number.GeneratedMSBuildEditorConfig.editorconfig
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/obj/Debug/net5.0/9_Palindrome_number.AssemblyInfoInputs.cache
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/obj/Debug/net5.0/9_Palindrome_number.AssemblyInfo.cs
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/obj/Debug/net5.0/9_Palindrome_number.csproj.CoreCompileInputs.cache
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/bin/Debug/net5.0/9_Palindrome_number
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/bin/Debug/net5.0/9_Palindrome_number.deps.json
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/bin/Debug/net5.0/9_Palindrome_number.runtimeconfig.json
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/bin/Debug/net5.0/9_Palindrome_number.runtimeconfig.dev.json
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/bin/Debug/net5.0/9_Palindrome_number.dll
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/bin/Debug/net5.0/ref/9_Palindrome_number.dll
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/bin/Debug/net5.0/9_Palindrome_number.pdb
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/obj/Debug/net5.0/9_Palindrome_number.dll
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/obj/Debug/net5.0/ref/9_Palindrome_number.dll
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/obj/Debug/net5.0/9_Palindrome_number.pdb
+/home/abramovich/Software_training/leetcode/c#/9_Palindrome_number/obj/Debug/net5.0/9_Palindrome_number.genruntimeconfig.cache
