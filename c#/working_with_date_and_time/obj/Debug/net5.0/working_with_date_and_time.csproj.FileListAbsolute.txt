@@ -1,0 +1,16 @@
+/home/abramovich/Software_training/c#/working_with_date_and_time/bin/Debug/net5.0/working_with_date_and_time
+/home/abramovich/Software_training/c#/working_with_date_and_time/bin/Debug/net5.0/working_with_date_and_time.deps.json
+/home/abramovich/Software_training/c#/working_with_date_and_time/bin/Debug/net5.0/working_with_date_and_time.runtimeconfig.json
+/home/abramovich/Software_training/c#/working_with_date_and_time/bin/Debug/net5.0/working_with_date_and_time.runtimeconfig.dev.json
+/home/abramovich/Software_training/c#/working_with_date_and_time/bin/Debug/net5.0/working_with_date_and_time.dll
+/home/abramovich/Software_training/c#/working_with_date_and_time/bin/Debug/net5.0/ref/working_with_date_and_time.dll
+/home/abramovich/Software_training/c#/working_with_date_and_time/bin/Debug/net5.0/working_with_date_and_time.pdb
+/home/abramovich/Software_training/c#/working_with_date_and_time/obj/Debug/net5.0/working_with_date_and_time.csprojAssemblyReference.cache
+/home/abramovich/Software_training/c#/working_with_date_and_time/obj/Debug/net5.0/working_with_date_and_time.GeneratedMSBuildEditorConfig.editorconfig
+/home/abramovich/Software_training/c#/working_with_date_and_time/obj/Debug/net5.0/working_with_date_and_time.AssemblyInfoInputs.cache
+/home/abramovich/Software_training/c#/working_with_date_and_time/obj/Debug/net5.0/working_with_date_and_time.AssemblyInfo.cs
+/home/abramovich/Software_training/c#/working_with_date_and_time/obj/Debug/net5.0/working_with_date_and_time.csproj.CoreCompileInputs.cache
+/home/abramovich/Software_training/c#/working_with_date_and_time/obj/Debug/net5.0/working_with_date_and_time.dll
+/home/abramovich/Software_training/c#/working_with_date_and_time/obj/Debug/net5.0/ref/working_with_date_and_time.dll
+/home/abramovich/Software_training/c#/working_with_date_and_time/obj/Debug/net5.0/working_with_date_and_time.pdb
+/home/abramovich/Software_training/c#/working_with_date_and_time/obj/Debug/net5.0/working_with_date_and_time.genruntimeconfig.cache

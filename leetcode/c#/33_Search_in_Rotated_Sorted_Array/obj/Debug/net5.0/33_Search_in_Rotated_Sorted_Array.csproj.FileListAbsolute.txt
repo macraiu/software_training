@@ -1,0 +1,16 @@
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/obj/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.csprojAssemblyReference.cache
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/obj/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.GeneratedMSBuildEditorConfig.editorconfig
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/obj/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.AssemblyInfoInputs.cache
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/obj/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.AssemblyInfo.cs
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/obj/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.csproj.CoreCompileInputs.cache
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/bin/Debug/net5.0/33_Search_in_Rotated_Sorted_Array
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/bin/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.deps.json
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/bin/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.runtimeconfig.json
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/bin/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.runtimeconfig.dev.json
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/bin/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.dll
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/bin/Debug/net5.0/ref/33_Search_in_Rotated_Sorted_Array.dll
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/bin/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.pdb
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/obj/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.dll
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/obj/Debug/net5.0/ref/33_Search_in_Rotated_Sorted_Array.dll
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/obj/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.pdb
+/home/abramovich/Software_training/leetcode/c#/33_Search_in_Rotated_Sorted_Array/obj/Debug/net5.0/33_Search_in_Rotated_Sorted_Array.genruntimeconfig.cache
