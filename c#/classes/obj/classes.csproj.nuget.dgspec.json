@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/abramovich/Software_training/c#/classes/classes.csproj": {}
+    "/home/abramovichcaesar/Desktop/Software_training/c#/classes/classes.csproj": {}
   },
   "projects": {
-    "/home/abramovich/Software_training/c#/classes/classes.csproj": {
+    "/home/abramovichcaesar/Desktop/Software_training/c#/classes/classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/abramovich/Software_training/c#/classes/classes.csproj",
+        "projectUniqueName": "/home/abramovichcaesar/Desktop/Software_training/c#/classes/classes.csproj",
         "projectName": "classes",
-        "projectPath": "/home/abramovich/Software_training/c#/classes/classes.csproj",
-        "packagesPath": "/home/abramovich/.nuget/packages/",
-        "outputPath": "/home/abramovich/Software_training/c#/classes/obj/",
+        "projectPath": "/home/abramovichcaesar/Desktop/Software_training/c#/classes/classes.csproj",
+        "packagesPath": "/home/abramovichcaesar/.nuget/packages/",
+        "outputPath": "/home/abramovichcaesar/Desktop/Software_training/c#/classes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/abramovich/.nuget/NuGet/NuGet.Config"
+          "/home/abramovichcaesar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/107/sdk/5.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

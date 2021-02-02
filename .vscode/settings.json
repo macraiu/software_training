@@ -1,4 +1,8 @@
 {
-    "python.pythonPath": "/home/abramovich/anaconda3/envs/RL/bin/python",
-    "jupyter.jupyterServerType": "remote"
+    "python.pythonPath": "/bin/python3",
+    "jupyter.jupyterServerType": "remote",
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
 }
