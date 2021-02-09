@@ -15,7 +15,7 @@ int main()
 
     int input = 100;
     int output;
-    
+
     modifySomething1(input, output);
     
     cout << output << endl;
